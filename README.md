@@ -12,13 +12,16 @@ The Best **intro** tutorial: *you must start from it*, then move to the more wid
 .image files mirrored private with Dropbox as they contains my provate info,
 these files were published mainly for backup:
 
-|           |                               |
-|-----------|-------------------------------|
-| `_VM.st`  | object virtual machine        |
-| `_PPS.st` | PPS: Personal Planning System |
-| `_TIME.st`| date/time computations        |
-| `_ACC.st` | accounting                    |
-| `_HR.st`  | human resource accounting     |
-| `_HW.st`  | hardware knowledge base       |
-| `_DOC.st` | documenting elements/formats  |
+|           |                                      |
+|-----------|--------------------------------------|
+| `_VM.st`  | object virtual machine               |
+| `_PPS.st` | PPS: Personal Planning System        |
+| `_TIME.st`| date/time computations               |
+| `_ACC.st` | accounting                           |
+| `_HR.st`  | human resource accounting            |
+| `_HW.st`  | hardware knowledge base              |
+| `_DOC.st` | documenting elements/formats         |
+| `_KRR.st` | knowledge representation & reasoning |
+| `_CAD.st` | generic CAD system elements          |
+| `_EDA.st` | Electronics Design Environment       |
 
