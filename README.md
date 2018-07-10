@@ -19,4 +19,5 @@ these files were published mainly for backup:
 | `_TIME.st`| date/time computations        |
 | `_ACC.st` | accounting                    |
 | `_HR.st`  | human resource accounting     |
+| `_HW.st`  | hardware knowledge base       |
 
