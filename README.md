@@ -16,3 +16,6 @@ these files were published mainly for backup:
 |-----------|-------------------------------|
 | `_VM.st`  | object virtual machine        |
 | `_PPS.st` | PPS: Personal Planning System |
+| `_TIME.st`| date/time computations        |
+| `_ACC.st` | accounting                    |
+
