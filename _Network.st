@@ -1,0 +1,1 @@
+OIO subclass: #OSocket	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: '_Network'!!OSocket commentStamp: 'DPonyatov 7/10/2018 23:20' prior: 0!Network Socket!

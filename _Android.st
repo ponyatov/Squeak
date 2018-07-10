@@ -1,0 +1,1 @@
+OWindow subclass: #OActivity	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: '_Android'!!OActivity commentStamp: 'DPonyatov 7/10/2018 23:09' prior: 0!OActivity	is a full-screen analog of generic Window!
