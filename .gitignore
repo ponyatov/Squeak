@@ -1,0 +1,12 @@
+*~
+*.swp
+*.log
+*.exe
+*.dll
+
+Squeak4.2-10966.*
+SqueakV41.sources
+
+package-cache/
+
+
