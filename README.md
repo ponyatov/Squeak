@@ -5,7 +5,7 @@ start from here
 
 - https://ponyatov.quora.com/SmallTalk-as-an-Authoring-system-SqueakV4-2-install-on-Debian-9-Linux
 
-The Best **intro** tutorial: you must start from it, then move to more wider tutorial
+The Best **intro** tutorial: *you must start from it*, then move to the more wider tutorial
 
 - https://www.youtube.com/playlist?list=PL6601A198DF14788D
 
