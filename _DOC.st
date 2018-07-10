@@ -1,0 +1,1 @@
+OString subclass: #ODocString	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: '_DOC'!!ODocString commentStamp: 'DPonyatov 7/10/2018 12:58' prior: 0!DocString is primitive documentation element!

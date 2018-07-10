@@ -20,4 +20,5 @@ these files were published mainly for backup:
 | `_ACC.st` | accounting                    |
 | `_HR.st`  | human resource accounting     |
 | `_HW.st`  | hardware knowledge base       |
+| `_DOC.st` | documenting elements/formats  |
 
