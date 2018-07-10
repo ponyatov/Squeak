@@ -12,6 +12,7 @@ The Best **intro** tutorial: *you must start from it*, then move to the more wid
 .image files mirrored private with Dropbox as they contains my provate info,
 these files were published mainly for backup:
 
-|           |                      |
-|-----------|----------------------|
-|`_VM.st`	|object virtual machine|
+|           |                               |
+|-----------|-------------------------------|
+| `_VM.st`  | object virtual machine        |
+| `_PPS.st` | PPS: Personal Planning System |
