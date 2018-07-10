@@ -12,4 +12,5 @@ The Best **intro** tutorial: you must start from it, then move to more wider tut
 .image files mirrored private with Dropbox as they contains my provate info,
 these files were published mainly for backup:
 
+|-----------|----------------------|
 |_VM		|object virtual machine|
