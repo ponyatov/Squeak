@@ -14,4 +14,4 @@ these files were published mainly for backup:
 
 |           |                      |
 |-----------|----------------------|
-|_VM		|object virtual machine|
+|`_VM.st`	|object virtual machine|
